@@ -1,0 +1,67 @@
+body{
+    position: relative;
+    width: 1512px;
+    height: 982px;
+    
+    background: #82EFFF;
+}
+
+#box1{
+    position: absolute;
+    width: 350px;
+    height: 85px;
+    left: 29px;
+    top: 19px;
+
+    background: #FFFEFE;
+    box-shadow: 0px 4px 30px #000000;
+    border-radius: 45px;
+    
+}
+
+#about{
+    position: absolute;
+    width: 183px;
+    height: 44px;
+    left: 113px;
+    top: 39px;
+    
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;
+    
+}
+
+#img{
+    position: absolute;
+    width: 892px;
+    height: 706px;
+    left: 29px;
+    top: 138px;
+    
+    background: url(undraw_Team_spirit_re_yl1v.png);
+    box-shadow: 0px 4px 25px 2px #000000;
+    border-radius: 177px;
+}
+
+#para{
+    position: absolute;
+    width: 430px;
+    height: 833px;
+    left: 1024px;
+    top: 81px;
+    
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;
+    
+}
+

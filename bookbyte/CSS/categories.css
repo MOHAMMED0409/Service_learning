@@ -1,0 +1,278 @@
+body{
+    position: relative;
+    width: fit-content;
+    height: fit-content;
+
+    background: #FFFFFF;
+}
+#search{
+    position: absolute;
+    width: 853px;
+    height: 90px;
+    left: 27px;
+    top: 52px;
+    position: absolute;
+    width: 574px;
+    height: 56px;
+    left: calc(50% - 574px/2 - 590px);
+    top: calc(50% - 56px/2 - 443px);
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #AEABAB;
+    position: absolute;
+    width: 853px;
+    height: 90px;
+    left: 27px;
+    top: 52px;
+    
+    background: #FFFFFF;
+    border: 5px solid #82EFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);    
+}
+#searchimg{
+    position: absolute;
+    width: 70px;
+    height: 69px;
+    left: 750px;
+    top: 63px;
+    
+    background: url(.png);
+}
+#logo{
+    position: absolute;
+    width: 530.15px;
+    height: 233.05px;
+    left: 155.93px;
+    top: 8px;
+}
+#image{
+    position: absolute;
+    left: 1.41%;
+    right: 50.62%;
+    top: 70.74%;
+    bottom: 1.67%;
+    
+    background: url(undraw_mobile_devices_k1ok.png);
+}
+
+#cato{
+    position: absolute;
+    width: 267.96px;
+    height: 64.16px;
+    left: 1153.04px;
+    top: 281.98px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;
+
+    position: absolute;
+    width: 331.34px;
+    height: 86.8px;
+    left: 1089.66px;
+    top: 259.33px;
+    
+    background: #FFFFFF;
+    border-radius: 30px;
+}
+
+.cat{
+    position: absolute;
+    width: 922px;
+    height: 1019px;
+    left: 960px;
+    top: 31px;
+    
+    background: #82EFFF;
+    border-radius: 189px;
+}
+#openbook1{
+    position: absolute;
+    width: 45.14px;
+    height: 56.61px;
+    left: 1196.26px;
+    top: 364.06px;
+    
+    background: url(.png);
+}
+#openbook2{
+    position: absolute;
+    width: 45.14px;
+    height: 56.61px;
+    left: 1196.26px;
+    top: 438.6px;
+    
+    background: url(.png);
+}
+#openbook3{
+    position: absolute;
+    width: 45.14px;
+    height: 56.61px;
+    left: 1196.26px;
+    top: 513.14px;
+    
+    background: url(.png);
+}
+#openbook4{
+    position: absolute;
+    width: 45.14px;
+    height: 56.61px;
+    left: 1196.26px;
+    top: 587.68px;
+    
+    background: url(.png);
+}
+#openbook5{
+    position: absolute;
+    width: 45.14px;
+    height: 56.61px;
+    left: 1196.26px;
+    top: 662.21px;
+    
+    background: url(.png);    
+}
+#openbook6{
+    position: absolute;
+    width: 45.14px;
+    height: 56.61px;
+    left: 1196.26px;
+    top: 736.75px;
+    
+    background: url(.png);
+}
+#openbook7{
+    position: absolute;
+    width: 45.14px;
+    height: 56.61px;
+    left: 1196.26px;
+    top: 811.29px;
+    
+    background: url(.png);
+}
+#class1{
+    position: absolute;
+    width: 277.56px;
+    height: 57.55px;
+    left: 1259.65px;
+    top: 363.12px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #000000;
+
+}
+#class2{
+
+    position: absolute;
+    width: 277.56px;
+    height: 57.55px;
+    left: 1259.65px;
+    top: 438.6px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;
+}
+#class3{
+    position: absolute;
+    width: 349px;
+    height: 58px;
+    left: 1260px;
+    top: 514px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;    
+}
+#class4{
+    position: absolute;
+    width: 277.56px;
+    height: 57.55px;
+    left: 1259.65px;
+    top: 589.56px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;    
+}
+#class5{
+    position: absolute;
+    width: 277.56px;
+    height: 57.55px;
+    left: 1259.65px;
+    top: 665.04px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;
+    
+}
+#comics{
+    position: absolute;
+    width: 458.12px;
+    height: 57.55px;
+    left: 1261.57px;
+    top: 740.53px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;
+    
+}
+#stories{
+    position: absolute;
+    width: 458.12px;
+    height: 57.55px;
+    left: 1261.57px;
+    top: 816.01px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;    
+}
+
+#back{
+    position: absolute;
+    width: 224.74px;
+    height: 68.88px;
+    left: 1580.43px;
+    top: 937.72px;
+
+}

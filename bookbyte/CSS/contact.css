@@ -1,0 +1,170 @@
+body{
+    position: relative;
+    width: 1512px;
+    height: 982px;
+    
+    background: #82EFFF;
+}
+
+#img1{
+    position: absolute;
+    width: 297.96px;
+    height: 200.96px;
+    left: 27.49px;
+    top: 88.44px;
+    
+    background: url(undraw_Profile_data_re_v81r.png);
+    border-radius: 60px;
+}
+
+#img2{
+    position: absolute;
+    width: 347.83px;
+    height: 229.33px;
+    left: 1154px;
+    top: 102px;
+    
+    background: url(undraw_Contact_us_re_4qqt.png);
+    border-radius: 60px;
+}
+
+#img3{
+    position: absolute;
+    width: 290.75px;
+    height: 258.18px;
+    left: 30px;
+    top: 510px;
+    
+    background: url(undraw_Personal_email_re_4lx7.png);
+    border-radius: 60px;
+}
+
+#img4{
+    position: absolute;
+    width: 318.82px;
+    height: 344.92px;
+    left: 1169.99px;
+    top: 451.82px;
+    
+    background: url(undraw_Terms_re_6ak4.png);
+    border-radius: 47px;
+}
+
+#img5{
+    position: absolute;
+    width: 368.95px;
+    height: 406.44px;
+    left: 540.38px;
+    top: 128.08px;
+    
+    background: url(undraw_Contract_re_ves9.png);
+}
+
+#rect1{
+    position: absolute;
+    width: 793.03px;
+    height: 871.37px;
+    left: 348.89px;
+    top: 74.63px;
+    
+    background: #FFFFFF;
+    border-radius: 232px;
+}
+
+#face{
+    position: absolute;
+    width: 135px;
+    height: 122px;
+    left: 439px;
+    top: 543px;
+    
+    background: url(.png);
+}
+
+#insta{
+    position: absolute;
+    width: 115px;
+    height: 122px;
+    left: 699px;
+    top: 543px;
+    
+    background: url(.png);
+}
+
+#link{
+    position: absolute;
+    width: 105px;
+    height: 122px;
+    left: 939px;
+    top: 543px;
+    
+    background: url(.png);
+}
+
+#facebook{
+    position: absolute;
+    width: 165px;
+    height: 70px;
+    left: 445px;
+    top: 656px;
+    
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    
+    color: #000000;
+    
+}
+
+#instagram{
+    position: absolute;
+    width: 165px;
+    height: 70px;
+    left: 686px;
+    top: 656px;
+    
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    
+    color: #000000;
+    
+}
+
+#linkedin{
+    position: absolute;
+    width: 165px;
+    height: 70px;
+    left: 939px;
+    top: 656px;
+    
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    
+    color: #000000;
+    
+}
+
+#contact{
+    position: absolute;
+    width: 421px;
+    height: 85px;
+    left: calc(50% - 421px/2 + 119.5px);
+    top: calc(50% - 85px/2 + 305.5px);
+    
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;
+    
+}

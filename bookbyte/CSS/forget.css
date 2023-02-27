@@ -1,0 +1,247 @@
+body{
+    position: relative;
+    width: 1512px;
+    height: 982px;
+    
+    background: #82EFFF;
+}
+
+#rect1{
+    position: absolute;
+    width: 326.41px;
+    height: 154px;
+    left: 0.3px;
+    top: -43px;
+    
+    background: #FFFEFE;
+    box-shadow: 0px 4px 25px #000000;
+    transform: rotate(28deg);
+}
+
+#rect2{
+    position: absolute;
+    width: 414.54px;
+    height: 154px;
+    left: -5.51px;
+    top: 121.63px;
+    
+    background: #FFFEFE;
+    box-shadow: 0px 4px 30px #000000;
+    transform: rotate(28deg);
+}
+
+#img1{
+    position: absolute;
+    width: 402px;
+    height: 300px;
+    left: 29px;
+    top: 626px;
+    
+    background: url(undraw_Forgot_password_re_hxwm.png);
+    filter: drop-shadow(0px 4px 35px #000000);
+}
+
+#forgetbox{
+    position: absolute;
+    width: 603px;
+    height: 682px;
+    left: 455px;
+    top: 160px;
+    
+    background: #FFFEFE;
+    box-shadow: 0px 4px 30px #000000;
+    border-radius: 106px;
+}
+
+#rect3{
+    position: absolute;
+    width: 402px;
+    height: 626px;
+    left: 1110px;
+    top: 0px;
+    
+    background: #FFFEFE;
+    box-shadow: 0px 4px 30px #000000;
+}
+
+#logo{
+    position: absolute;
+    width: 402px;
+    height: 239px;
+    left: 1121px;
+    top: 0px;
+    
+    background: url(LOGO (3).png);
+}
+
+#img2{
+    position: absolute;
+    width: 413px;
+    height: 218px;
+    left: 1110px;
+    top: 600px;
+    
+    background: url(undraw_Graduation_re_gthn.png);
+    filter: drop-shadow(0px 4px 30px #000000);
+}
+
+#rect4{
+    position: absolute;
+    width: 454px;
+    height: 90px;
+    left: 1058px;
+    top: 785px;
+    
+    background: #FFFEFE;
+    box-shadow: 0px 4px 10px #000000;
+}
+
+#rect5{
+    position: absolute;
+    width: 552px;
+    height: 109px;
+    left: 960px;
+    top: 873px;
+    
+    background: #FFFEFE;
+    box-shadow: 0px 4px 30px #000000;
+}
+
+#forget{
+    position: absolute;
+    width: 327px;
+    height: 70px;
+    left: 593px;
+    top: 217px;
+    
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;
+    
+}
+
+#line{
+    position: absolute;
+    width: 347px;
+    height: 0px;
+    left: 573px;
+    top: 278px;
+    
+    border: 14px solid #000000;
+}
+
+#username{
+    position: absolute;
+    width: 250px;
+    height: 38px;
+    left: 573px;
+    top: 350px;
+    
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+
+#box1{
+    position: absolute;
+    width: 347px;
+    height: 68px;
+    left: 573px;
+    top: 380px;
+    
+    background: linear-gradient(0deg, rgba(130, 239, 255, 0.47), rgba(130, 239, 255, 0.47)), linear-gradient(0deg, rgba(130, 239, 255, 0.47), rgba(130, 239, 255, 0.47)), linear-gradient(0deg, rgba(130, 239, 255, 0.47), rgba(130, 239, 255, 0.47)), rgba(130, 239, 255, 0.47);
+    border-radius: 27px;
+}
+
+#new{
+    position: absolute;
+    width: 250px;
+    height: 38px;
+    left: 573px;
+    top: 470px;
+    
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+
+#box2{
+    position: absolute;
+    width: 347px;
+    height: 68px;
+    left: 573px;
+    top: 500px;
+    
+    background: linear-gradient(0deg, rgba(130, 239, 255, 0.47), rgba(130, 239, 255, 0.47)), linear-gradient(0deg, rgba(130, 239, 255, 0.47), rgba(130, 239, 255, 0.47)), linear-gradient(0deg, rgba(130, 239, 255, 0.47), rgba(130, 239, 255, 0.47)), rgba(130, 239, 255, 0.47);
+    border-radius: 27px;
+}
+
+#retype{
+    position: absolute;
+    width: 250px;
+    height: 38px;
+    left: 573px;
+    top: 580px;
+    
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+
+#box3{
+    position: absolute;
+    width: 347px;
+    height: 68px;
+    left: 573px;
+    top: 620px;
+    
+    background: linear-gradient(0deg, rgba(130, 239, 255, 0.47), rgba(130, 239, 255, 0.47)), linear-gradient(0deg, rgba(130, 239, 255, 0.47), rgba(130, 239, 255, 0.47)), linear-gradient(0deg, rgba(130, 239, 255, 0.47), rgba(130, 239, 255, 0.47)), rgba(130, 239, 255, 0.47);
+    border-radius: 27px;
+}
+
+#loginbox{
+    position: absolute;
+    width: 347px;
+    height: 68px;
+    left: 573px;
+    top: 730px;
+    
+    background: linear-gradient(0deg, rgba(130, 239, 255, 0.47), rgba(130, 239, 255, 0.47)), linear-gradient(0deg, rgba(130, 239, 255, 0.47), rgba(130, 239, 255, 0.47)), linear-gradient(0deg, rgba(130, 239, 255, 0.47), rgba(130, 239, 255, 0.47)), rgba(130, 239, 255, 0.47);
+    box-shadow: 0px 4px 35px #000000;
+    border-radius: 27px;
+}
+
+#login{
+    position: absolute;
+    width: 100px;
+    height: 42px;
+    left: 696px;
+    top: 736px;
+    
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;
+    
+}

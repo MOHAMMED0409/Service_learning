@@ -1,0 +1,232 @@
+body{
+    position: relative;
+    width: 2560px;
+    height: 1664px;
+
+    background: #FFFFFF;
+}
+#admin{
+    position: absolute;
+    width: 276.28px;
+    height: 100px;
+    left: 62px;
+    top: 0px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+}
+
+#line{
+    position: absolute;
+    width: 261px;
+    height: 0.42px;
+    left: 62.01px;
+    top: 82.34px;
+    
+    border: 5px solid #000000;
+    transform: matrix(1, -0.01, 0, 1, 0, 0);
+}
+
+#img{
+    position: absolute;
+    width: 479.37px;
+    height: 643px;
+    left: 911.63px;
+    top: 0px;
+    
+    background: url(undraw_Add_notes_re_ln36.png);
+}
+
+#class{
+    position: absolute;
+    width: 260px;
+    height: 58px;
+    left: 121px;
+    top: 176px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    
+    color: #000000;
+}
+
+#option1{
+    position: absolute;
+    width: 300px;
+    height: 86px;
+    left: 106px;
+    top: 224px;
+    
+    background: #FFFFFF;
+    border-radius: 30px;
+}
+
+#subject{
+    position: absolute;
+    width: 175px;
+    height: 44px;
+    left: 121px;
+    top: 332px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #000000
+}
+
+#option2{
+    position: absolute;
+    width: 300px;
+    height: 86px;
+    left: 107px;
+    top: 410px;
+    
+    background: #FFFFFF;
+    border-radius: 30px;
+}
+
+#box1{
+    position: absolute;
+    width: 389px;
+    height: 527px;
+    left: 62px;
+    top: 116px;
+    
+    background: linear-gradient(180deg, #82EFFF 0%, rgba(88, 208, 234, 0) 100%);
+    border-radius: 80px;
+}
+
+#drop{
+    position: absolute;
+    width: 280px;
+    height: 44px;
+    left: 534px;
+    top: 213px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;    
+}
+
+#dropbox{
+    position: absolute;
+    width: 325px;
+    height: 65px;
+    left: 514px;
+    top: 192px;
+    
+    background: #FFFFFF;
+    border-radius: 30px;
+}
+
+#box2{
+    position: absolute;
+    width: 389px;
+    height: 527px;
+    left: 484px;
+    top: 113px;
+    
+    background: linear-gradient(180deg, #82EFFF 0%, rgba(88, 208, 234, 0) 100%);
+    border-radius: 80px;
+}
+
+#upload{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 629px;
+    top: 356px;
+    
+    background: url(.png);
+}
+
+#box3{
+    position: absolute;
+    width: 325px;
+    height: 195px;
+    left: 514px;
+    top: 310px;
+    
+    background: #FFFFFF;
+    border-radius: 30px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+button:focus{outline: none;}
+
+#uploadbtn{
+    position: absolute;
+    width: 138px;
+    height: 48px;
+    left: 610px;
+    top: 524px;
+    
+    border: none;
+    background: none;
+    outline: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: -0.01em;
+    
+    color: #000000;
+    
+    border: 1px solid #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+}
+
+#box4{
+    position: absolute;
+    width: 325px;
+    height: 65px;
+    left: 516px;
+    top: 518px;
+    
+    background: #FFFFFF;
+    border-radius: 30px;
+}
+
+#oval{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1651px;
+    height: 516px;
+    left: -185px;
+    top: 638px;
+
+    background: linear-gradient(180deg, #82EFFF 0%, rgba(130, 239, 255, 0) 100%);
+    border: 1px solid #000000;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+#logo{
+
+    position: absolute;
+    width: 420px;
+    height: 213px;
+    left: 430px;
+    top: 606px;
+    
+}
